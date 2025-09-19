@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Teaching Experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "University of Minnesota Twin Cities"
+#date: 
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a graduate teaching assistant, I have taught MATH 2263/2374 Multivariable Calculus, MATH 2373 Differential Equations and Linear Algebra, and MATH 1271 Calculus 1. 
+I have received multiple Thank a Teacher Notes, and have consistently had good student ratings. 
