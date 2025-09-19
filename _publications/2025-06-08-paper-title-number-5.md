@@ -1,13 +1,10 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Tensor-Based Synchronization and the Low-Rankness of the Block Trifocal Tensor"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+#permalink: /publication/2009-10-01-paper-title-number-1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-12-11
+venue: 'NeurIPS 2024'
+#paperurl: 'https://link.springer.com/article/10.1007/s11784-020-00841-1'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
