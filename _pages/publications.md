@@ -19,4 +19,4 @@ author_profile: true
 <div class="wordwrap"> Sheng Sang, Chen Xu, Jiadi Fan, <b>Daniel Miao</b>, Connor Side, and Ziping Wang <i> Advanced Theory and Simulations, 6(2), 2200674</i>. <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adts.202200674" target="_blank">Link</a>.</div>
 
 <h3>[1] Accurate prediction of topology of composite plates via machine learning and propogation of elastic waves</h3> 
-<div class="wordwrap"> , Sheng Sang, Chen Xu, Ziping Wang, Connor Side, Brent Fowler, Jiadi Fan, and <b>Daniel Miao</b>, <i>Composites Communications 37, 101465</i>. <a href="[https://doi.org/10.3390/cancers15194840](https://www.sciencedirect.com/science/article/abs/pii/S2452213922004077)" target="_blank">Link</a>.</div>
+<div class="wordwrap"> Sheng Sang, Chen Xu, Ziping Wang, Connor Side, Brent Fowler, Jiadi Fan, and <b>Daniel Miao</b>, <i>Composites Communications 37, 101465</i>. <a href="[https://doi.org/10.3390/cancers15194840](https://www.sciencedirect.com/science/article/abs/pii/S2452213922004077)" target="_blank">Link</a>.</div>
